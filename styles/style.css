@@ -1,0 +1,44 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+
+header {
+  padding: 20px;
+  background-color: blueviolet;
+  color: #fff;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+
+header h3 {
+  float: left;
+}
+
+header ul {
+  float: right;
+  list-style-type: none;
+  display: inline-block;
+}
+
+header ul li {
+  display: inline-block;
+}
+
+header ul li a {
+  text-decoration: none;
+  color: #fff;
+}
+
+header ul li a:hover {
+  color: #fff;
+  opacity: 0.6;
+}
+
+header .clear {
+  clear: both;
+}
+
+body {
+  background-color: #fefefe;
+}
+/*# sourceMappingURL=style.css.map */
